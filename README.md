@@ -10,7 +10,7 @@ Our version of the game was inspired by the 1987 ShareData PC game. [View Origin
 * Eric O'Neill ([eoneill23](https://github.com/eoneill23))
 * Djavan Munroe ([Djavanm](https://github.com/djavanm))
 * Katherine Williams ([Kawilliams8](https://github.com/kawilliams8))
-* Pita's Life ([PitaLife] (https://github.com/pitalife))
+* Pita's Life ([PitaLife](https://github.com/pitalife))
 
 ### Project Images
 ![Splash screen](https://github.com/eoneill23/GameTime/blob/master/Splash.png)
